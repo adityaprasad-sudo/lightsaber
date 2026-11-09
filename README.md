@@ -60,9 +60,10 @@ I made them in free cad to fit all the componets properly and compactly so nothi
 
 Thank for reading till here, all the required files could be found in the github repo
 
-#UPDATE 1
+# UPDATE 1
 new demo i assembled everything in the 3d printed parts
 and acttached the ws128b leds to see how the final product will look
+
 <video src="https://github.com/adityaprasad-sudo/lightsaber/blob/00bfa082f2f1af305b291766f207e0d1982866ad/demo/VID-20261106-WA0058-compress-video-to-size.mp4" controls="controls" style="max-width: 100%;"></video>
 
 
